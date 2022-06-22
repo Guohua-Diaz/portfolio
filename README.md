@@ -11,6 +11,9 @@
 - Run locally $npm run dev
 - Deploy to surge $npm run deploy
 
+## CSS files used
+- portfolio/styles/globals.css
+
 ## Tech Stack Used 
 - Next.js
 - React.js
