@@ -3,9 +3,10 @@
 # Quick Preview - Clone, compile and run locally
 #Website: http://guohua-diaz.surge.sh
 
-## How To Use
+## How To Use: From git-bash
 
 - Clone this repo
+$git clone 
 - Install npm modules
 $npm install
 - Compile
