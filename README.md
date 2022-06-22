@@ -6,8 +6,10 @@
 ## How To Use
 
 - Clone this repo
+- Install npm modules
+$npm install
 - Compile
-- Run locally use command from gitbash:
+- Run locally use command from git-bash:
 $npm run dev
 - Deploy to surge
 #$npm run deploy
